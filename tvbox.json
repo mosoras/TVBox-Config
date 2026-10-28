@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [],
+  "parses": [],
+  "lives": [],
+  "rules": [],
+  "doh": [
+    {
+      "name": "阿里",
+      "url": "https://dns.alidns.com/dns-query"
+    },
+    {
+      "name": "腾讯",
+      "url": "https://doh.pub/dns-query"
+    }
+  ]
+}
