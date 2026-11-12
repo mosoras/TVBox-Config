@@ -3,7 +3,13 @@
   "wallpaper": "",
   "sites": [],
   "parses": [],
-  "lives": [],
+  "lives": [
+  {
+    "name": "MOSORA live",
+    "type": 0,
+    "url": "https://raw.githubusercontent.com/mosoras/TVBox-Config/main/live.txt"
+  }
+],
   "rules": [],
   "doh": [
     {
