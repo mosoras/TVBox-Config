@@ -1,8 +1,6 @@
 央视&卫视,#genre#
 CCTV-1,https://example.com/cctv1.m3u8
 CCTV-新闻,https://example.com/cctv-news.m3u8
-湖南卫视,https://example.com/hunan.m3u8
-浙江卫视,https://example.com/zhejiang.m3u8
 CCTV-1 综合,http://74.91.26.218:82/live/cctv1hd.m3u8
 CCTV-2 财经,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3 综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
@@ -23,3 +21,7 @@ CCTV-17 农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
 FZTV-1 News 新闻综合频道,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 FZTV-3 Lifestyle Channel 生活频道,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 FZTV-4 Children 少儿频道,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+
+卫视频道,#genre#
+湖南卫视,https://example.com/hunan.m3u8
+浙江卫视,https://example.com/zhejiang.m3u8
